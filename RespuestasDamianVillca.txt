@@ -1,0 +1,1 @@
+¿Cuáles son los estados de archivo en git? Los estados son unckled cuando son nuevos y commit cuando estan comitiados 
