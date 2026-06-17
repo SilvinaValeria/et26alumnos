@@ -1,0 +1,5 @@
+¿Cuáles son los estados de archivo en git?
+0- Untracked
+1- Modified
+2- Staged
+3- Commited
