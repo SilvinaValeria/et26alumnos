@@ -1,0 +1,4 @@
+¿Cuales son los estados de archivo en git?
+local respositorio
+staring área
+workin tree
