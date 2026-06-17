@@ -1,0 +1,1 @@
+¿Cuáles son los estados de archivo en git? Los estados de archivo son: Modified, Commited, Staging (o Modified/Tracked, Untracked, Commited)
