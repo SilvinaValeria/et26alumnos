@@ -1,0 +1,4 @@
+¿Cuáles son los estados de archivo en git?
+Los estados son: "Untracked": No está registrado, es el estado de los nuevos archivos.
+                 "Modifiqued": Es un archivo que fue modificado, mas no está guardado aún.
+                 "Staging": Está guardado y listo para ser pusheado. 
