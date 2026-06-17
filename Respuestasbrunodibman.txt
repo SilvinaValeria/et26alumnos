@@ -1,0 +1,3 @@
+¿Cuales son los estados de archivo git? (Se puede realizar desde windows normalmente abriendo el archivo y escribiendo desde el notepad)
+
+modified commited preparado
