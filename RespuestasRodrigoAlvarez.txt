@@ -1,0 +1,2 @@
+¿Cuáles son los estados de archivo en Git?
+Los estados de archivo son: Tracked y untracked
