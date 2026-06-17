@@ -1,0 +1,4 @@
+¿Cuales son los estados de archivo en git?
+Hay 3 estados , el area de modificaciones , el area de preparacion y el repositorio de git
+En el area de modificacion (The working three) podemos modificar nuestros archivos , el area de preparacion (Staging area)
+los "prepara" para finalmente ir al repositorio de git , donde ya estaria todo guardado
