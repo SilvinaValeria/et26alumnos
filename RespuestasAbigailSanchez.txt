@@ -1,0 +1,7 @@
+Cuales son los estados de archivo de git) :C
+son:
+la sUntracked: Archivos que existen en el disco duro pero que Git no sabe DE ELLOS YAQUE NO HICIERON HICE UN COMMIT
+Modified: Archivos que han sido modificados pero no guardados.
+Staged: Archivos que han sido modificados y marcados para incluirse en la próxima confirmación.
+Committed: Archivos que han sido confirmados y guardados en el repositorio. 
+Estos estados permiten a los usuarios gestionar y rastrear los cambios en sus proyectos de manera efectivA
