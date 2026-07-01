@@ -1,0 +1,3 @@
+modified: es cuando el archivo esta en pleno trabajo, por ejemplo, se están haciendo modificaciones   
+stagting área: mandamos el archivo al área de trabajo con un "add ." para avisarle al repositorio que el arhivo esta listo para hacer un commit
+repository git: usamos un commit para guardar el archivo y ya esta en el repositorio git 
