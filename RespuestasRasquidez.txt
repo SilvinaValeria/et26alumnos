@@ -1,0 +1,9 @@
+RespuestasSebastianrasquidez
+
+¿Cuales son los estados de archivo en git?
+
+Untracked
+Unmodified
+Modified
+Staged
+
